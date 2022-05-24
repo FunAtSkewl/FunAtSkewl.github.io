@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#githubs{
+    background-color: lightgray;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+#githubs a{
+    color: blue;
+    margin: 8px;
+}
+
+#menu{
+    background-color: lightgray;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#menu button{
+    background-color: rgb(235, 213, 213);
+    border: 1px solid black;
+    color: blue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+#menu button:hover{
+    background-color: rgb(176, 159, 159);
+}
